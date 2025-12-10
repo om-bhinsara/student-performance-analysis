@@ -37,9 +37,3 @@ This project performs exploratory data analysis (EDA) on student exam performanc
 
 ## ✅ Conclusion
 The analysis highlights key academic and demographic factors affecting student performance and provides insights for educational improvement strategies.
-
-## 🔮 Future Scope
-- Add attendance and socioeconomic indicators
-- Build predictive models for student performance
-
-

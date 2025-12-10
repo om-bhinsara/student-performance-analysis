@@ -28,12 +28,12 @@ This project performs exploratory data analysis (EDA) on student exam performanc
 - Reading is the strongest subject; mathematics is the weakest.
 - Students with standard lunch perform better than those with free/reduced lunch.
 
-## 📈 Project Structure
-student-performance-analysis/
-├── data/
-├── notebooks/
-├── README.md
-└── requirements.txt
+## 📁 Project Structure
+📦 **student-performance-analysis**  
+ ┣ 📂 data  
+ ┣ 📂 notebooks  
+ ┣ 📄 README.md  
+ ┗ 📄 requirements.txt  
 
 ## ✅ Conclusion
 The analysis highlights key academic and demographic factors affecting student performance and provides insights for educational improvement strategies.
